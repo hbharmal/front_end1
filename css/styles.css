@@ -3,6 +3,19 @@
   padding: 0px;
 }
 
+.bottom-border {
+  border-bottom: 1px ridge;
+}
+
+.history-content {
+  padding: 50px 0px 50px 0px;
+  border-bottom: 1px ridge;
+}
+
+.corporate-content {
+  padding: 40px 0px 50px 0px;
+}
+
 .row-content {
   margin: 0px auto;
   padding: 50px 0px 50px 0px;
@@ -23,7 +36,16 @@
   color: floralwhite;
 }
 
-address {
+.navbar-inverse {
+	background-color: #512DA8;
+}
+
+body {
+	padding: 50px 0px 0px 0px;
+	z-index: 0;
+}
+
+.address {
   margin: 0px auto;
   font-size: 80%;
   color: #0f0f0f;
